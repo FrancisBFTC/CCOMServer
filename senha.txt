@@ -1,0 +1,7 @@
+ 
+ ==Senha de Acesso==========
+|                           |
+|  user: bftcorporations    |
+|  pass: wenderson          |
+|                           |
+ ===========================
